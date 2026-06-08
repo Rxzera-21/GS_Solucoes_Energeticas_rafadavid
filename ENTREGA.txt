@@ -1,33 +1,20 @@
 ================================================================
   GLOBAL SOLUTION — SOLUÇÕES EM ENERGIAS RENOVÁVEIS E SUSTENTÁVEIS
-  FIAP · Ciência da Computação · Turma 1CC
+  FIAP · Ciência da Computação · Turma 1CCR
   Projeto: HELIOS — Monitoramento Energético de Missões Espaciais
 ================================================================
 
 INTEGRANTES DO GRUPO
 --------------------
-(preencha com os nomes completos e RMs de cada integrante)
 
-  1. Nome completo: ____________________________   RM: __________
-  2. Nome completo: ____________________________   RM: __________
-  3. Nome completo: ____________________________   RM: __________
-  4. Nome completo: ____________________________   RM: __________
-  5. Nome completo: ____________________________   RM: __________
+  1. Nome completo: Rafael Marinucci Peres   RM: 569729
+  2. Nome completo: David dos Reis Cardoso   RM: 568938
 
-
-LINK DO REPOSITÓRIO NO GITHUB (público)
+LINK DO REPOSITÓRIO NO GITHUB
 ---------------------------------------
-  https://github.com/__________________/helios-monitor
+  https://github.com/Rxzera-21/GS_Solucoes_Energeticas_rafadavid
 
 
-LINK DO VÍDEO NO YOUTUBE (não listado, máx. 3 min)
+LINK DO VÍDEO NO YOUTUBE
 --------------------------------------------------
   https://youtu.be/__________________
-
-
-================================================================
-Observação: o vídeo deve demonstrar a solução em funcionamento
-(painel no terminal e/ou dashboard web) e explicar como o sistema
-aplica os conceitos de energia, potência, energias renováveis e
-sustentabilidade ao monitoramento da missão.
-================================================================

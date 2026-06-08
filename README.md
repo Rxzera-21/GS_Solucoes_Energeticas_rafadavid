@@ -120,6 +120,12 @@ Opções principais:
 streamlit run dashboard.py
 ```
 
+No caso de erro
+
+```bash
+python -m streamlit run dashboard.py
+```
+
 Selecione o cenário e o número de passos na barra lateral e explore os
 gráficos de bateria, potência, sustentabilidade e comunicação, além das
 tabelas de alertas e decisões.
