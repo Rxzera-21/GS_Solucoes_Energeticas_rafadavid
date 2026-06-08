@@ -228,7 +228,7 @@ def main() -> None:
                    choices=["nominal", "falha_painel", "eclipse_prolongado",
                             "superaquecimento", "tempestade_solar"])
     p.add_argument("--passos", type=int, default=120)
-    p.add_argument("--velocidade", type=float, default=0.06, help="segundos entre passos")
+    p.add_argument("--velocidade", type=float, default=0.5, help="segundos entre passos")
     p.add_argument("--seed", type=int, default=42)
     p.add_argument("--fonte", default="simulador", choices=["simulador", "csv"])
     p.add_argument("--arquivo", default="data/telemetria_exemplo.csv")
