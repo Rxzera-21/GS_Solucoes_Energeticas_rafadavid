@@ -190,9 +190,8 @@ os módulos críticos** (suporte à vida, computador de bordo, controle térmico
 
 > Preencha com os nomes completos da equipe (ver também `ENTREGA.txt`).
 
-- Nome Completo 1 — RM000000
-- Nome Completo 2 — RM000000
-- Nome Completo 3 — RM000000
+- Rafael Marinucci Peres — RM569729
+- David dos Reis Cardoso — RM568938
 
 ## 📄 Licença
 
