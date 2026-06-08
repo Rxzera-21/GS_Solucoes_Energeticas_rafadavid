@@ -1,0 +1,8 @@
+# Dependências do HELIOS
+numpy>=1.24        # cálculos numéricos da IA (z-score, regressão linear)
+rich>=13.0         # painel de monitoramento no terminal (main.py)
+pandas>=2.0        # tabelas e séries temporais do dashboard
+streamlit>=1.30    # dashboard web interativo (dashboard.py)
+
+# Desenvolvimento / testes
+pytest>=7.0
