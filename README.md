@@ -188,8 +188,6 @@ os módulos críticos** (suporte à vida, computador de bordo, controle térmico
 
 ## 👥 Integrantes
 
-> Preencha com os nomes completos da equipe (ver também `ENTREGA.txt`).
-
 - Rafael Marinucci Peres — RM569729
 - David dos Reis Cardoso — RM568938
 
